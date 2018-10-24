@@ -1,0 +1,31 @@
+<resources>
+    <string-array name="sections">
+    <item >Kesavraj Kannan</item>
+
+    </string-array>
+    <string-array name="cars">
+    <item >Hyundai Sonata 2017 V6 engine $780 GPS Included</item>
+
+</string-array>
+    <string-array name="carsReservation">
+        <item >1001124 Hyundai Sonata 2017- 10/28/19 - Scheduled</item>
+        <item >1001001 Nissan Versa 2015- 10/24/19 - Cancelled </item>
+
+    </string-array>
+    <string-array name="rented">
+        <item >TX-56M-847  1001569191 Hyundai Sonata 2017-pickup 0600pm 10/28/19 drop 0600pm 11/05/19 </item>
+        <item >TX-432-162  1001568982 Chevorlet Cruze 2012-pickup 1100am 10/25/19 drop 0400pm 11/10/19</item>
+
+    </string-array>
+    <string-array name="available">
+        <item >TX 543-567 Huyandai Elantra</item>
+        <item >TX 644-663 Honda Civic</item>
+
+    </string-array>
+    <string-array name="manager">
+        <item >1001124 Hyundai Sonata 2017- 10/28/19 - Scheduled</item>
+
+
+    </string-array>
+
+</resources>
